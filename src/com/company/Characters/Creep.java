@@ -1,12 +1,9 @@
 package com.company.Characters;
 
 import com.company.AttackTypes.IsRange;
-import com.company.Behaviors.AttackBehavior;
-import com.company.Behaviors.MovingBehavior;
-import com.company.Behaviors.WeaponBehavior;
 import com.company.Character;
 import com.company.MovingTypes.CanWalk;
-import com.company.Weapons.UseStick;
+import com.company.WeaponTypes.UseStick;
 
 public class Creep extends Character {
     public Creep() {

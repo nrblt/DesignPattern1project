@@ -28,4 +28,16 @@ public abstract class Character {
     }
 
     public abstract void display();
+
+    public void setAb(AttackBehavior ab) {
+        this.ab = ab;
+    }
+
+    public void setMb(MovingBehavior mb) {
+        this.mb = mb;
+    }
+
+    public void setWb(WeaponBehavior wb) {
+        this.wb = wb;
+    }
 }

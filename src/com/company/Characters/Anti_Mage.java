@@ -6,7 +6,7 @@ import com.company.Behaviors.MovingBehavior;
 import com.company.Behaviors.WeaponBehavior;
 import com.company.Character;
 import com.company.MovingTypes.CanTeleportate;
-import com.company.Weapons.UseHand;
+import com.company.WeaponTypes.UseHand;
 
 public class Anti_Mage extends Character {
 

@@ -1,4 +1,4 @@
-package com.company.Weapons;
+package com.company.WeaponTypes;
 
 import com.company.Behaviors.WeaponBehavior;
 

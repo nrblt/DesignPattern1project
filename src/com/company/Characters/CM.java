@@ -6,7 +6,7 @@ import com.company.Behaviors.MovingBehavior;
 import com.company.Behaviors.WeaponBehavior;
 import com.company.Character;
 import com.company.MovingTypes.CanWalk;
-import com.company.Weapons.UseHand;
+import com.company.WeaponTypes.UseHand;
 
 public class CM extends Character {
     public CM(WeaponBehavior wb, AttackBehavior ab, MovingBehavior mb) {
